@@ -1,2 +1,2 @@
 # server
-a server just like Nginx
+A Sever For 5G
